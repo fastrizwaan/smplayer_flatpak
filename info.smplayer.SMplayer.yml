@@ -13,7 +13,7 @@ finish-args:
   - '--socket=wayland'
   - '--socket=pulseaudio'
   - '--device=dri'
-  - '--filesystem=host:ro'
+  - '--filesystem=host'
   - '--talk-name=ca.desrt.dconf'
   - '--talk-name=org.freedesktop.ScreenSaver'
   - '--env=DCONF_USER_CONFIG_DIR=.config/dconf'
