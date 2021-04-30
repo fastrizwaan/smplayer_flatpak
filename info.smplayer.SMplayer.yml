@@ -3,6 +3,7 @@ app-id: info.smplayer.SMplayer
 runtime: org.kde.Platform
 runtime-version: '5.15'
 rename-desktop-file: smplayer.desktop
+rename-icon: smplayer
 sdk: org.kde.Sdk
 command: smplayer
 finish-args:
