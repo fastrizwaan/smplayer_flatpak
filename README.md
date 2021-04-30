@@ -1,6 +1,6 @@
 # smplayer_flatpak
 smplayer in flatpak
-
+copied the manifest from https://github.com/flathub/com.georgefb.haruna/blob/master/com.georgefb.haruna.yml
 #### build and install
 ```
 flatpak install -y --user org.kde.Platform/x86_64/5.15 org.kde.Sdk/x86_64/5.15 
